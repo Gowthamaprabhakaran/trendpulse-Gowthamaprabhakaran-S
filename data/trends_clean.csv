@@ -1,0 +1,71 @@
+post_id,title,category,score,num_comments,author,collected_at
+49882781,MicroLLM Lab – Try 7 tiny LLM's in the browser,technology,215,79,logicallee,2026-09-29 12:44:17
+49883844,"Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",technology,456,170,firelex,2026-09-29 12:44:19
+49855059,"12,000-year-old Göbeklitepe burials explain scattered bones",technology,127,29,yusufaytas,2026-09-29 12:44:22
+49862602,Simulating Airband Am Radios,technology,24,3,shellpipe,2026-09-29 12:44:35
+49879883,Nvidia wants to put a watchdog chip next to every AI agent,technology,157,186,jonbaer,2026-09-29 12:44:36
+49877678,Does Reddit have an astroturfing problem? What the data suggests,technology,189,231,p-s-v,2026-09-29 12:44:39
+49883471,It's Time to Investigate the AI Labs,technology,435,166,ibobev,2026-09-29 12:44:42
+49861755,"What reversing, modernising old games tells us about the economic impact of AI",technology,108,54,keeda,2026-09-29 12:44:48
+49879577,Cf: The Agentic CLI for the Cloudflare API,technology,150,73,macleos,2026-09-29 12:44:56
+49886901,"Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",technology,16,2,polytap,2026-09-29 12:45:02
+49876148,What would a serious AI product look like?,technology,145,58,lumpa,2026-09-29 12:45:13
+49875913,"Parley: Federated, decentralised chat that speaks plain IRC",technology,312,175,davidcollantes,2026-09-29 12:45:15
+49872883,Nissan's third generation e-POWER powertrain,technology,157,393,mroche,2026-09-29 12:45:24
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,172,76,teleforce,2026-09-29 12:45:30
+49887963,"AI risk is not sentience by computers, it is negligence by humans",technology,11,2,ianmosher,2026-09-29 12:45:42
+49880312,"The problem is not AI code, but not knowing about system architecture or intent",technology,359,227,zazuke,2026-09-29 12:45:46
+49849409,Writing Efficient C++ Code (2013),technology,173,148,ibobev,2026-09-29 12:45:50
+49886459,OpenAI scraps release of Astra 6.1 model over safety issues,technology,14,6,lisper,2026-09-29 12:45:57
+49888031,OpenAI scraps rollout of new model over safety concerns,technology,5,1,alastairr,2026-09-29 12:46:03
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,86,36,FKJ,2026-09-29 12:46:09
+49876883,"Una watch review: A modular, repairable GPS watch is a good first step",technology,11,3,poisonborz,2026-09-29 12:46:10
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,153,75,theanonymousone,2026-09-29 12:46:19
+49883345,SB 923 is Law: CCPA deletion rights now reach third-party data,technology,40,12,patrickwdaly,2026-09-29 12:46:28
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),technology,155,73,evakhoury,2026-09-29 12:46:30
+49884119,Pacing the Frontier is not the actual goal for AI labs,technology,79,84,brlewis,2026-09-29 12:46:43
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1014,581,fjfaase,2026-09-29 12:51:59
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,323,333,nonfamous,2026-09-29 12:52:40
+49811065,Transit rewards,worldnews,258,346,raybb,2026-09-29 12:54:14
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,181,181,giuliomagnifico,2026-09-29 12:54:46
+49835913,August 27 TCRF DDoS Attack Postmortem,worldnews,34,14,panic,2026-09-29 12:55:06
+49885493,Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?,sports,40,28,thefourthchime,2026-09-29 12:44:20
+49879707,"First DVD player announced Sept 26, 1996",sports,7,0,ibobev,2026-09-29 12:47:16
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-29 12:50:09
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-29 12:50:29
+49836590,The Board Game of the Alpha Nerds (2014),sports,123,65,neonate,2026-09-29 12:51:07
+49849406,Time Measurement in Game Programming,sports,13,0,ibobev,2026-09-29 12:55:12
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,sports,143,52,ArielSimon,2026-09-29 12:55:37
+49883536,Scientists solve 1840s space weather mystery,science,99,46,gumby,2026-09-29 12:44:29
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",science,294,106,danso,2026-09-29 12:46:50
+49839438,"Biology might not be quantum, but its math is quantumlike",science,123,60,pseudolus,2026-09-29 12:49:15
+49880401,The large robotic arm on the International Space Station has stopped working,science,16,3,robin_reala,2026-09-29 12:49:16
+49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,science,93,27,Teever,2026-09-29 12:52:29
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,544,xnx,2026-09-29 12:52:36
+49875411,SpaceX's Starship launching to orbit for first time ever today,science,296,341,geox,2026-09-29 12:53:29
+49853918,Alberta's image as world's only rat-free region shattered by discovery of rat,science,47,35,pseudolus,2026-09-29 12:55:26
+49835866,Ask HN: Any nerds out there who've read a lot of research papers?,science,33,28,shriy-singh,2026-09-29 12:55:48
+49879645,Updated Google Maps shows destruction of the city of Rafah,entertainment,449,256,slowin,2026-09-29 12:44:38
+49858756,Show HN: Museum of Numbers,entertainment,11,6,rhl314,2026-09-29 12:44:40
+49879401,Show HN: HN.watch – Videos of all Hacker News posts,entertainment,157,89,mrborgen,2026-09-29 12:44:50
+49880601,Show HN: Destroy Any Website with Stickman,entertainment,137,33,HugoDz,2026-09-29 12:44:55
+49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",entertainment,133,58,seamus_c,2026-09-29 12:45:14
+49875308,Show HN: Free alternative to graphics design giants,entertainment,116,47,sia_xi,2026-09-29 12:45:22
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,308,135,safaelmali,2026-09-29 12:45:54
+49876760,Show HN: Hntui – A TUI for Hacker News,entertainment,107,64,ahmd-sh,2026-09-29 12:46:42
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,278,122,pancomplex,2026-09-29 12:46:49
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,403,119,jpwalsh234,2026-09-29 12:47:52
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,423,107,pseudolus,2026-09-29 12:49:08
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",entertainment,18,6,jvanveen,2026-09-29 12:49:20
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,41,13,kdautaj,2026-09-29 12:49:52
+49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",entertainment,8,1,andreespirela,2026-09-29 12:50:03
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,86,41,andrearitossa,2026-09-29 12:50:48
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,entertainment,51,12,miguelrios,2026-09-29 12:52:35
+49870654,Show HN: Jevdit – a social network moderated by Jev,entertainment,11,1,TN1ck,2026-09-29 12:52:43
+49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,entertainment,75,14,SouthWestAtlas,2026-09-29 12:52:55
+49858409,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",entertainment,21,2,jsLavaGoat,2026-09-29 12:53:11
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,entertainment,193,63,mixedbit,2026-09-29 12:53:14
+49868710,"Show HN: Gat – Version large files with Git, without an LFS server",entertainment,7,0,davnn,2026-09-29 12:53:17
+49823738,Show HN: Make cursed fonts like Times New Bastard,entertainment,859,123,MitPitt,2026-09-29 12:53:30
+49867443,"Show HN: High-performance, zero-dependency charting engine for Svelte",entertainment,6,1,bonguynvan,2026-09-29 12:53:33
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",entertainment,151,39,florianstandhar,2026-09-29 12:53:36
